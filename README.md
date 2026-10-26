@@ -87,13 +87,8 @@ Sebelum menjalankan aplikasi, siapkan:
 
 ### A. Clone Repository
 
-```bash
-git clone https://github.com/rafafahlevi1406-beep/NAMA-REPOSITORY.git
-cd NAMA-REPOSITORY
-```
-
-Ganti `NAMA-REPOSITORY` dengan nama repository proyek yang sebenarnya.
-
+git clone https://github.com/rafafahlevi1406-beep/belanja-pangan.git
+cd belanja-pangan
 ### B. Instal Dependensi
 
 ```bash
@@ -168,12 +163,12 @@ Setiap anggota wajib menggunakan akun GitHub masing-masing untuk berkontribusi d
 
 ## 10. Repository GitHub
 
-Repository proyek:
+[Repository proyek:
 
 https://github.com/rafafahlevi1406-beep/NAMA-REPOSITORY
 
 Ganti tautan tersebut dengan alamat repository proyek yang sebenarnya.
-
+](https://github.com/rafafahlevi1406-beep/belanja-pangan)
 ## 11. Pengujian Sistem
 
 Pengujian dilakukan untuk memastikan fitur aplikasi berjalan sesuai kebutuhan, meliputi:
